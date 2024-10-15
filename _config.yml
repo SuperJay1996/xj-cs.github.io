@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jie Xu / Personal Homepage"
+title                    : "许杰 / 个人主页"
 title_separator          : "-"
-name                     : &name "Jie Xu"
-description              : &description "a undergraduate Phd student from NJUST"
+name                     : &name "许杰"
+description              : &description "一个喜欢数学的计算机博士"
 url                      : https://superjay1996.github.io/xj-cs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SuperJay1996/xj-cs.github.io"
@@ -22,10 +22,10 @@ repository               : "SuperJay1996/xj-cs.github.io"
 author:
   # Biographic information
   avatar           : "简历照片.png"
-  name             : "Jie Xu"
+  name             : "许杰"
   pronouns         : # example: "she/her"  
-  bio              : "Stay hungry, stay foolish!"
-  location         : "Location"
+  bio              : "热爱科技与创意的探索者，深耕于深度学习和计算机视觉领域，致力于人体姿态估计方法的研究。以挑战复杂问题为乐，追求简洁优雅的解决方案。工作时专注高效，休息时享受生活。"
+  location         : "江苏，南京"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "jiexu@njust.edu.cn" 
