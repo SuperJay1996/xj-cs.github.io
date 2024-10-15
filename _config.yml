@@ -21,7 +21,7 @@ repository               : "SuperJay1996/xj-cs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "简历照片.png"
   name             : "Jie Xu"
   pronouns         : # example: "she/her"  
   bio              : "Stay hungry, stay foolish!"
