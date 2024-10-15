@@ -12,6 +12,6 @@ I'm a Phd student from [School of Computer Science and Engineering](https://cs.n
 
 I am very fortunate to be advised by [Prof. Zhang](http://202.119.85.163/open/TutorInfo.aspx?dsbh=fD241wcSo3T3UEXLQU3h4w==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=) of PCALab.
 
-You can find my CV here: [Jie Xu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Jie Xu's Curriculum Vitae](https://github.com/SuperJay1996/xj-cs.github.io/assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:jiexu@njust.edu.cn)/[Github](https://github.com/SuperJay1996)
