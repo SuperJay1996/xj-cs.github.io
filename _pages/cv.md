@@ -20,6 +20,11 @@ Work experience
   * Premier Institute of Ore Selection and Processing
   * Computer vision, Intelligent Equipment Research and Development
 
+Skills
+======
+* Deep Learning
+* Image Processing
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
